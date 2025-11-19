@@ -1,0 +1,36 @@
+<svg width="900" height="900" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="300" cy="300" r="200" stroke="rgba(0, 170, 255, 0.4)" stroke-width="1"/>
+    <circle cx="300" cy="300" r="150" stroke="rgba(0, 170, 255, 0.3)" stroke-width="0.8"/>
+    <circle cx="300" cy="300" r="100" stroke="rgba(0, 170, 255, 0.2)" stroke-width="0.6"/>
+
+    <path d="M400 300C400 355.228 355.228 400 300 400C244.772 400 200 355.228 200 300" stroke="rgba(0, 170, 255, 0.6)" stroke-width="1.2" stroke-dasharray="5 5"/>
+    <path d="M300 200C355.228 200 400 244.772 400 300" stroke="rgba(0, 170, 255, 0.5)" stroke-width="1"/>
+
+    <line x1="100" y1="300" x2="500" y2="300" stroke="rgba(0, 170, 255, 0.2)" stroke-width="0.5" stroke-dasharray="3 3"/>
+    <line x1="300" y1="100" x2="300" y2="500" stroke="rgba(0, 170, 255, 0.2)" stroke-width="0.5" stroke-dasharray="3 3"/>
+    
+    <line x1="150" y1="150" x2="450" y2="450" stroke="rgba(0, 170, 255, 0.1)" stroke-width="0.5"/>
+    <line x1="450" y1="150" x2="150" y2="450" stroke="rgba(0, 170, 255, 0.1)" stroke-width="0.5"/>
+
+    <circle cx="300" cy="100" r="3" fill="rgba(0, 170, 255, 0.7)"/>
+    <circle cx="400" cy="200" r="3" fill="rgba(0, 170, 255, 0.7)"/>
+    <circle cx="450" cy="300" r="3" fill="rgba(0, 170, 255, 0.7)"/>
+    <circle cx="400" cy="400" r="3" fill="rgba(0, 170, 255, 0.7)"/>
+    <circle cx="300" cy="500" r="3" fill="rgba(0, 170, 255, 0.7)"/>
+    <circle cx="200" cy="400" r="3" fill="rgba(0, 170, 255, 0.7)"/>
+    <circle cx="150" cy="300" r="3" fill="rgba(0, 170, 255, 0.7)"/>
+    <circle cx="200" cy="200" r="3" fill="rgba(0, 170, 255, 0.7)"/>
+
+    <line x1="320" y1="120" x2="340" y2="120" stroke="rgba(0, 170, 255, 0.3)" stroke-width="0.7"/>
+    <line x1="320" y1="130" x2="335" y2="130" stroke="rgba(0, 170, 255, 0.3)" stroke-width="0.7"/>
+    <line x1="310" y1="140" x2="330" y2="140" stroke="rgba(0, 170, 255, 0.3)" stroke-width="0.7"/>
+
+    <line x1="480" y1="280" x2="495" y2="280" stroke="rgba(0, 170, 255, 0.3)" stroke-width="0.7"/>
+    <line x1="480" y1="290" x2="490" y2="290" stroke="rgba(0, 170, 255, 0.3)" stroke-width="0.7"/>
+
+    <line x1="480" y1="310" x2="490" y2="310" stroke="rgba(0, 170, 255, 0.3)" stroke-width="0.7"/>
+    <line x1="480" y1="320" x2="495" y2="320" stroke="rgba(0, 170, 255, 0.3)" stroke-width="0.7"/>
+
+    <line x1="280" y1="480" x2="295" y2="480" stroke="rgba(0, 170, 255, 0.3)" stroke-width="0.7"/>
+    <line x1="280" y1="490" x2="290" y2="490" stroke="rgba(0, 170, 255, 0.3)" stroke-width="0.7"/>
+</svg>
